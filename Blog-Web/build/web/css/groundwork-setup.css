@@ -1,0 +1,11 @@
+/*
+*Точка интеграции фреймворка Ground Work
+*/
+@import "groundframework/groundwork-anim.css";
+@import "groundframework/groundwork-core.css";
+@import "groundframework/groundwork-ie.css";
+@import "groundframework/groundwork-responsive.css";
+@import "groundframework/groundwork-type.css";
+@import "groundframework/groundwork-ui.css";
+@import "groundframework/groundwork.css";
+@import "groundframework/placeholder_polyfill.css";
